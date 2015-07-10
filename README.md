@@ -1,9 +1,5 @@
 Shennekt v1.0
 ======
-Built with [Twitter Bootstrap](http://getbootstrap.com/) framework.
-
-
-
 ### Credits
  * [jQuery](http://jquery.com/)
  * [Bootstrap](http://getbootstrap.com/)
